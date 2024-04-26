@@ -1,2 +1,3 @@
-# CNAB240_Itau
-Gerando arquivo CNAB240 para pagamentos em lote.
+# PAGAMENTOS EM LOTE >> ITAU - CNAB240
+
+Gerando arquivo CNAB240 para pagamentos de transferências em lote (TED e entre contas correntes Itaú).
